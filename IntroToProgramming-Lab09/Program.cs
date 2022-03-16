@@ -10,6 +10,7 @@ namespace IntroToProgramming_Lab09
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
